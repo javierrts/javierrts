@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🔭 I’m currently working on ... Logistics 
+
+🌱 I’m currently learning ...  Master Development with AI 
+
+💬 Ask me about ... IBMi with Bob&Claude
 <!--
 **javierrts/javierrts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
